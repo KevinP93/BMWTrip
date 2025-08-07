@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const participants = [
         { id: 1, name: "David", car: "BMW E30 325i", role: "+ 3 personnes" },
-        { id: 2, name: "Abel", car: "BMW E36 325i", role: "+ 2 personnes" },
+        { id: 2, name: "Abel", car: "BMW E36 325i", role: "+ 1 personnes" },
         { id: 3, name: "Kevin", car: "BMW E93", role: "+ 2 personnes" },
         { id: 4, name: "Cedric", car: "BMW M5", role: "+ 1 personnes" },
         { id: 5, name: "Sergio", car: "BMW M3 E36", role: "+ 1 personnes" },
