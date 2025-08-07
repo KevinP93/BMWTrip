@@ -198,16 +198,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
     participantsCount.addEventListener('click', () => {
         participantsModal.classList.remove('hidden');
+         document.body.classList.add('body-modal-open');
     });
 
     closeModal.addEventListener('click', () => {
         participantsModal.classList.add('hidden');
+        document.body.classList.remove('body-modal-open'); 
     });
 
     // Close modal when clicking outside
     participantsModal.addEventListener('click', (e) => {
         if (e.target === participantsModal) {
             participantsModal.classList.add('hidden');
+            document.body.classList.remove('body-modal-open'); 
         }
     });
 });

@@ -16,3 +16,10 @@
     z-index: 0 !important;
     position: relative;
 }
+
+
+.body-modal-open {
+  overflow: hidden !important;
+  height: 100vh !important;
+  touch-action: none;
+}
