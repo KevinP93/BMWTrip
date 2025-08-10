@@ -92,12 +92,13 @@ document.addEventListener('DOMContentLoaded', function () {
         { id: 5, name: "Sergio", car: "BMW M3 E36", role: "+ 1 personnes" },
         { id: 6, name: "Jorge", car: "BMW M2", role: "+ 1 personnes" },
         { id: 7, name: "Luis", car: "BMW E46 330i", role: "+ 1 personnes" },
-        { id: 8, name: "Dylan", car: "BMW E92 325", role: "+ 3 personnes" },
+        { id: 8, name: "Dylan", car: "BMW E92 325", role: "+ 1 personnes" },
         { id: 9, name: "Herve", car: "BMW M3 E93", role: "+ 0 personnes" },
         { id: 10, name: "Patrick", car: "BMW E36", role: "+ 1 personnes" },
         { id: 11, name: "Jorge", car: "BMW E30 323", role: "+ 1 personnes" },
         { id: 12, name: "Xavi", car: "BMW M4", role: "+ 0 personnes" },
-        { id: 13, name: "Christophe", car: "BMW E30", role: "+ 0 personnes" }
+        { id: 14, name: "Albano", car: "BMW Serie 2", role: "+ 1 personnes" },
+        { id: 15, name: "Filipz", car: "BMW M4", role: "+ 1 personnes" }
     ];
 
     // Initialize map
