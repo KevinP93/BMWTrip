@@ -98,7 +98,8 @@ document.addEventListener('DOMContentLoaded', function () {
         { id: 11, name: "Jorge", car: "BMW E30 323", role: "+ 1 personnes" },
         { id: 12, name: "Xavi", car: "BMW M4", role: "+ 0 personnes" },
         { id: 14, name: "Albano", car: "BMW Serie 2", role: "+ 1 personnes" },
-        { id: 15, name: "Filipz", car: "BMW M4", role: "+ 1 personnes" }
+        { id: 15, name: "Filipe", car: "BMW M4", role: "+ 1 personnes" },
+        { id: 16, name: "Christophe", car: "BMW E30", role: "+ 0 personnes" }
     ];
 
     // Initialize map
