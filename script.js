@@ -19,11 +19,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const roadtripStops = [
     {
         id: 1,
-        name: "Départ – Fafe",
-        coordinates: [41.4507439, -8.1754442],
+        name: "Départ – Lagoa, Fafe",
+        coordinates: [41.5174788, -8.0867731],
         date: "14/08/2025 - 10H00",
-        description: "Départ de l’aventure depuis Fafe.",
-        image: "./assets/Fafe.jpg"
+        description: "Départ de l’aventure depuis Lagoa.",
+        image: "./assets/lagoa.jpeg"
     },
     {
         id: 2,
@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
         id: 4,
-        name: "Déjeuner – Restaurante Lua de Mel",
-        coordinates: [41.7151864, -8.3146689],
+        name: "Déjeuner – Restaurante Toca do Caçador",
+        coordinates: [41.7167, -8.3000],
         date: "14/08/2025 - 12H30",
-        description: "Déjeuner typique au restaurant Lua de Mel.",
-        image: "./assets/LuaDeMel.jpeg"
+        description: "Déjeuner typique au restaurant Toca do Caçador.",
+        image: "./assets/toca.jpg"
     },
     {
         id: 5,
